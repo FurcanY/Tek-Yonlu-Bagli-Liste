@@ -5,7 +5,7 @@
 
 
 ## Ayrıca kodlarken daha iyi anlamak için döküman oluşturdum.
-<img src="https://github.com/FurcanY/Tek-Yonlu-Bagli-Liste/assets/114299899/a3f6363f-9242-4f5f-8d45-8bb9086048e2"/>
+<img src="https://github.com/FurcanY/Tek-Yonlu-Bagli-Liste/blob/main/Document/TekY%C3%B6nl%C3%BCBa%C4%9Fl%C4%B1Liste.pdf"/>
 
 
 
